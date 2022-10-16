@@ -82,3 +82,46 @@ $(".vision-carousel").owlCarousel({
 
     }
   });
+  $(".message-2-carousel").owlCarousel({
+    items:1,
+    margin : 10,
+    loop: true,
+    rtl : false,
+    autoplay: false,
+    autoplaySpeed: 1000,
+    autoplayTimeout: 6000,
+    dots: false,
+    smartSpeed: 1000,
+    lazyLoad: true,
+    nav: false,
+    navText : ["","<i class='fa fa-chevron-right'></i>"],
+    responsive:{
+        400:{
+            items:1,
+        },
+        768:{
+            items:1,
+        },
+    }
+
+  });
+  $(".team-carousel").owlCarousel({
+    margin : 10,
+    loop: true,
+    rtl : true,
+    autoplay: true,
+    autoplaySpeed: 1000,
+    autoplayTimeout: 6000,
+    dots: false,
+    smartSpeed: 1000,
+    lazyLoad: true,
+    responsive:{
+        400:{
+            items:1,
+        },
+        768:{
+            items:5,
+        },
+    }
+
+  });

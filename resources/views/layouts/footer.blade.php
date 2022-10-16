@@ -8,9 +8,9 @@
             <div class="col-content">
             <h4> {{ __('index.43') }}</h4>
             <ul>
-              <li><img src="{{asset('img/message-icon.svg')}}" alt="message"><p>Rightaccess.com.sa</p></li>
-              <li><img src="{{asset('img/phone-icon.svg')}}" alt="phone"><p>92003447</p></li>
-              <li><img src="{{asset('img/phone-icon.svg')}}" alt="phone"><p>966530353032</p></li>
+              <li><img src="{{asset('img/message-icon.png')}}" alt="message"><p>Rightaccess.com.sa</p></li>
+              <li><img src="{{asset('img/phone-icon.png')}}" alt="phone"><p>92003447</p></li>
+              <li><img src="{{asset('img/phone-icon.png')}}" alt="phone"><p>966530353032</p></li>
             </ul>
             <div class="social-media">
                 <a href="#"><i class="fab fa-instagram"></i></a>
@@ -26,7 +26,7 @@
             <div class="col-content">
             <h4>{{ __('index.44') }}</h4>
             <ul>
-                <li><img src="{{asset('img/location-icon.svg')}}" alt="location"><p>Riyadh, Muhammadiyah, King Fahd Road opposite Riyadh Gallery</p></li>
+                <li><img src="{{asset('img/location-icon.png')}}" alt="location"><p>King Fahd Branch Road, Al Olaya - Hamad Tower / building No. 7421</p></li>
             </ul>
             </div>
           </div>

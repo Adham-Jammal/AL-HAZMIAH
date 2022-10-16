@@ -1,7 +1,7 @@
 <?php
 
 return [
-    "1" => "Innovation to promote the contracting sector in Saudi Arabia ",
+    "1" => "Your first partner in innovation in the field of contracting in the Kingdom of Saudi Arabia ",
     "2" => "Projects",
     "3" =>"Clients",
     "4" => "Best Price ",
@@ -45,8 +45,8 @@ return [
     "42" => "Send Message ",
     "43" => "Contact Info  ",
     "44" => "Address",
-    "45" => "",
-    "46" => "",
+    "45" => "Success Partners",
+    "46" => "Our Team",
     "47" => "",
     "48" => "",
     "49" => "",
