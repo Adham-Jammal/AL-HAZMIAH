@@ -29,6 +29,10 @@
     font-size: 5rem;
     font-weight: 800;
  }
+ .hero .text-content h1 span.with-bg{
+    background-color: rgba(221, 221, 221, 0.556);
+    border-radius: 5px;
+ }
 .icons-section{
     padding: 75px 0;
 }
@@ -320,11 +324,17 @@
     grid-column-end: 2;
  }
 .services .services-p {
+    width: 90%;
     opacity: .5;
     font-size: 1.6rem;
     font-weight: 800;
     line-height: 1.5;
     margin: 20px 0;
+ }
+ .services .content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
  }
 .services ul{
     list-style: none;
@@ -578,6 +588,9 @@
     .message-2 .text-content p{
         width: 100%;
         text-align: center;
+    }
+    .services .content{
+        align-items: flex-start;
     }
 }
 /* ************* */

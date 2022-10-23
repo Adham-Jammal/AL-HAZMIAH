@@ -9,7 +9,7 @@
                     <h4> {{ __('index.43') }}</h4>
                     <ul>
                         <li><img src="{{ asset('img/message-icon.png') }}" alt="message">
-                            <p>Rightaccess.com.sa</p>
+                            <p>hla@alhazmia.com</p>
                         </li>
                         <li><img src="{{ asset('img/phone-icon.png') }}" alt="phone">
                             <p>92003447</p>

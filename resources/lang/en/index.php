@@ -1,7 +1,8 @@
 <?php
 
 return [
-    "1" => "Your first partner in innovation in the field of contracting in the Kingdom of Saudi Arabia ",
+    "1" => "Your first partner in innovation in the field of contracting in the Kingdom of  ",
+    "1.1" => "Saudi Arabia",
     "2" => "Projects",
     "3" =>"Clients",
     "4" => "Best Price ",
