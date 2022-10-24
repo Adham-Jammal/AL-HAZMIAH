@@ -9,22 +9,18 @@
                     <h4> {{ __('index.43') }}</h4>
                     <ul>
                         <li><img src="{{ asset('img/message-icon.png') }}" alt="message">
-                            <p>hla@alhazmia.com</p>
+                            <p>Project@alhazmia.com</p>
                         </li>
                         <li><img src="{{ asset('img/phone-icon.png') }}" alt="phone">
-                            <p>92003447</p>
-                        </li>
-                        <li><img src="{{ asset('img/phone-icon.png') }}" alt="phone">
-                            <p>966530353032</p>
+                            <p>00966558483176</p>
                         </li>
                     </ul>
-                    <div class="social-media">
-                        <a href="#"><i class="fab fa-instagram"></i></a>
+                    {{-- <div class="social-media">
+                        <a href="https://api.whatsapp.com/send?phone=966558483176"><i class="fab fa-whatsapp"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>
                         <a href="#"><i class="fab fa-google"></i></a>
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
-
-                    </div>
+                    </div> --}}
                 </div>
 
             </div>

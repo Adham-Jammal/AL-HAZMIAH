@@ -199,7 +199,7 @@ a{
     cursor: pointer;
   }
   /*Scroll Top*/
-#scroll_top{
+#whatsup_icon{
     position: fixed;
     bottom: 25px;
     width: 50px;
@@ -207,7 +207,7 @@ a{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: var(--main-color);
+    background-color: #3ddd5e;
     color: #fff;
     cursor: pointer;
     z-index: 4;
@@ -216,8 +216,8 @@ a{
     font-weight: 800;
     transition: 1s;
 }
-#scroll_top:hover{
-    background-color: var(--dark-color);
+#whatsup_icon:hover{
+    background-color: #24ae3f;
 }
 
 @media (max-width:500px) {

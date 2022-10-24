@@ -27,8 +27,8 @@
 
 <body>
     <div id="preloader"></div>
-    <button id="scroll_top"><i class="bi bi-chevron-up"></i></button>
-    {{-- <button id="scroll_top"><i class="bi bi-chevron-up"></i></button> --}}
+    <a href="https://api.whatsapp.com/send?phone=966558483176" id="whatsup_icon"><i class="bi bi-whatsapp"></i></a>
+    {{-- <button id="whatsup_icon"><i class="bi bi-chevron-up"></i></button> --}}
     @include('layouts.header')
 
     @yield('main')

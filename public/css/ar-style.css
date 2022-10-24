@@ -13,6 +13,9 @@
     direction: rtl;
     font-family: 'Arabic-font', sans-serif;
    }
+.hero{
+margin-top: 85px;
+}
 .hero .image-content img{
     width: 100%;
  }
@@ -493,9 +496,10 @@
     .vision-carousel{
         margin-top: 25px;
     }
-    .goals .image-content .desktop{
+    .goals .image-content{
         display: none;
     }
+
     .goals .mobile{
         border-radius: 8px;
         margin: 25px 0;
@@ -598,7 +602,6 @@
 
 }
 /* Scroll Top */
-#scroll_top{
-    transform: rotate(-90deg);
-    left: -60px;
+#whatsup_icon{
+    left: 10px;
 }

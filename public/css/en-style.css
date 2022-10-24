@@ -12,6 +12,9 @@
 *{
     font-family: 'Montserrat', sans-serif;
    }
+.hero{
+margin-top: 85px;
+}
 .hero .image-content img{
     width: 100%;
  }
@@ -488,7 +491,7 @@
     .vision-carousel{
         margin-top: 25px;
     }
-    .goals .image-content .desktop{
+    .goals .image-content{
         display: none;
     }
     .goals .mobile{
@@ -593,7 +596,6 @@
 
 }
 /* Scroll Top */
-#scroll_top{
-    transform: rotate(90deg);
-    right: -60px;
+#whatsup_icon{
+    right: 10px;
 }

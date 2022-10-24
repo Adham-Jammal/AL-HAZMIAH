@@ -20,21 +20,6 @@ window.addEventListener("load", () => {
     });
 });
 
-let scrollTopButton = document.getElementById("scroll_top");
-window.onscroll = () => {
-    if (scrollY >= 430) {
-        scrollTopButton.style = "left: 10px;transform: rotate(0deg);";
-    } else {
-        scrollTopButton.style = "left: -60px;";
-    }
-};
-scrollTopButton.onclick = function () {
-    window.scrollTo({
-        top: 0,
-        behavior: "smooth",
-    });
-};
-
 $(".vision-carousel").owlCarousel({
     margin : 10,
     loop: true,
